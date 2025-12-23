@@ -1,4 +1,4 @@
-# 👄 Veneers Cost Calculator React Component
+# 👄 Veneers Cost Calculator Widget
 
 A stylish calculator for porcelain and composite veneers. Ideal for cosmetic dentistry blogs and practice websites looking to increase user engagement.
 
