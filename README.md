@@ -1,15 +1,15 @@
-# 👄 Veneers Cost Calculator Widget
+# # Open-source Veneers Price Calculator Component
 
-A stylish calculator for porcelain and composite veneers. Ideal for cosmetic dentistry blogs and practice websites looking to increase user engagement.
+Estimate the cost of porcelain vs. composite veneers with this easy-to-use React component.
 
-## 🚀 Live Demo
-Try the full calculator: [fixmysmile.ai/cost-of-veneers-calculator](https://fixmysmile.ai/cost-of-veneers-calculator)
+## 🚀 Live Demo & Price Guide
+**[Click here to view the Live Calculator](https://fixmysmile.ai/cost-of-veneers-calculator)**
+*Compare the long-term cost of porcelain versus composite veneers.*
 
-## 📦 Features
-- **Tooth Count Slider**: Real-time calculation for 1 to 20+ teeth.
-- **Material Comparison**: Compare Porcelain vs. Composite resin pricing instantly.
-- **Regional Modifiers**: Reflects cost of living adjustments across the USA.
-- **Modern UI**: Clean design using Tailwind CSS and Radix UI.
+## Features
+- **Material Comparison**: Instant price difference between Composite and Porcelain.
+- **Quantity Adjustments**: Calculates full-smile discounts for 6+ veneers.
+- **Professional UI**: Clean, patient-friendly financial interface.
 
 ## 🛠 Embed Code
 ```html
